@@ -17,4 +17,4 @@ function allPrime(nums) {
     return true;
 }
 
-allPrime([1,5,3]);
+allPrime([1,5,3,0]);
